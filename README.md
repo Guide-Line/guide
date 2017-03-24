@@ -63,10 +63,9 @@ CMTool 모바일에서 개발 url 추가 하는 방법에 관한 가이드 입�
 
 `iframe` 2개 일 때 `HTML` 소스
 
+### [모바일 스와이프 배너 삽입 요령](https://github.com/Guide-Line/guide/tree/master/mobileCMToolGuide/%EB%AA%A8%EB%B0%94%EC%9D%BC_%EC%A2%8C%EC%9A%B0%EB%A1%A4%EB%A7%81%EB%B0%B0%EB%84%88_%EB%86%92%EC%9D%B4%EA%B0%92%EB%AA%BB%EC%9E%A1%EB%8A%94_%EC%97%90%EB%9F%AC%EB%B0%9C%EC%83%9D)
 
 ### [스와이프 배너](https://github.com/gaette09/guide/tree/master/mobileCMToolGuide/swiperBanner)
-
-### [모바일 스와이프 배너 삽입 요령](https://github.com/Guide-Line/guide/tree/master/mobileCMToolGuide/%EB%AA%A8%EB%B0%94%EC%9D%BC_%EC%A2%8C%EC%9A%B0%EB%A1%A4%EB%A7%81%EB%B0%B0%EB%84%88_%EB%86%92%EC%9D%B4%EA%B0%92%EB%AA%BB%EC%9E%A1%EB%8A%94_%EC%97%90%EB%9F%AC%EB%B0%9C%EC%83%9D)
 
 연관 기획전 2가지 버전, 스와이프 쿠폰, 스와이프 이미지 배너 총 4가지
 
