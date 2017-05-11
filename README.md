@@ -26,8 +26,8 @@
 
 01. 상품 탬플릿
 
- 	| ![그림참고](Template/images/guide_m_goods_1.gif)  | ![그림참고](Template/images/guide_m_goods_2.gif) | ![그림참고](Template/images/guide_m_goods_2.gif) | ![그림참고](Template/images/guide_m_goods_2.gif) |
- 	
+ 	| ![그림참고](Template/images/guide_w_goods_1.gif)                                                                               | ![그림참고](Template/images/guide_w_goods_2.gif) | ![그림참고](Template/images/guide_w_goods_3.gif) | ![그림참고](Template/images/guide_w_goods_4.gif) |
+    |:---------------------------------------------------------------------------------------------------------------------------|:---------------------------------------------|:---------------------------------------------|:---------------------------------------------|
     | 1단형                                                                                                                        | 2단형                                         																					  | 3단형                                 																											         | 4단형                                          																				    		|
     | 기본 [`Demo`](http://codepen.io/jdk/pen/LNqdOP) [`download`](https://app.box.com/s/a8w06ol0tlc9lwae7vj06col0tguqs90)    | 기본  [`Demo`](http://codepen.io/jdk/pen/qZgoVe)  [`download`](https://app.box.com/s/xxitt5sd3at05z3hip2oe6voqu7wryi9)              |                                   |              |
     | 쿠폰적용가 [`Demo`](http://codepen.io/jdk/pen/PNVROW) [`download`](https://app.box.com/s/5v2ykvjv5jan7pfbe81x3y1xk2xfd7it)| 쿠폰적용가  [`Demo`](http://codepen.io/jdk/pen/grqeoL)  [`download`](https://app.box.com/s/5su9qcmrczh9bt4jf3yckq2wvlrul0z7)        |                                		|              |
